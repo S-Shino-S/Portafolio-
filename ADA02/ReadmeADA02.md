@@ -1,4 +1,4 @@
-# ADA02 
+# ADA 02 
 Esta actividad se centró en la implementación de una simulación estocástica para modelar la atención al cliente en un banco. El objetivo técnico fue programar un sistema en lenguaje C que gestionara el flujo de usuarios a través de tres cajas de atención simultáneas.
 
 El programa debía generar clientes de manera aleatoria, asignándoles una carga de trabajo (número de transacciones/tiempo) y dirigiéndolos a una de las tres colas disponibles. El núcleo del proyecto fue el desarrollo de un algoritmo que administrara el ciclo de vida del cliente: su llegada (enqueue), su tiempo de espera y su salida (dequeue) tras ser atendido. Finalmente, el sistema debía procesar los datos recolectados para presentar métricas de eficiencia, como el tiempo promedio de espera por cola y el caudal de clientes atendidos.
