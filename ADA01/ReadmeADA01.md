@@ -1,4 +1,4 @@
-#ADA 01
+# ADA 01
 El objetivo de esta actividad fue desarrollar un analizador sintáctico (parser) capaz de interpretar y resolver expresiones matemáticas complejas. La tarea consistió en crear un programa de consola que funcionara mediante argumentos de línea de comandos para procesar archivos de texto.
 
 El flujo del programa se dividió en dos fases algorítmicas:
