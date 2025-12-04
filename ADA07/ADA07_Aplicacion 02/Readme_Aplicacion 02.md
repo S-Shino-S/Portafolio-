@@ -1,1 +1,3 @@
+# Aplicacion 02
 
+En esta actividad desarrollamos una Tabla de Símbolos para un compilador, implementando una tabla hash que utiliza el nombre del identificador (string) como clave y listas ligadas para manejar las colisiones (método de encadenamiento). Aprendí que el encadenamiento es más flexible que el direccionamiento abierto para este contexto porque permite almacenar un número indefinido de variables sin redimensionar constantemente la tabla, aunque el mayor desafío fue implementar una función hash eficiente para cadenas de texto (para evitar colisiones masivas) y gestionar correctamente la memoria dinámica de los nodos en cada lista al momento de eliminar registros.
